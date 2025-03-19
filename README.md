@@ -1,2 +1,2 @@
 # RecipeCB
-Project 1 create recipe for a Chee
+Project 1 create recipe for a Cheeseburger
