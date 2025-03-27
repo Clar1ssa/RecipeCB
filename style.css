@@ -1,0 +1,53 @@
+p {
+    background-color: beige;
+    text-color:green;
+    text-align: left;
+     
+    
+    
+}
+h1 {color:red;font: size 100px;}
+div {
+    color:rgb(red, rgb(228, 11, 22), blue);
+    border-style : solid;
+    border-color : rgb(201, 3, 3);
+    border-width : 15px;
+    background-color: bisque;
+
+}
+
+p2 { font-style: inherit rgb(14, 133, 14);
+    font-size: 20px;
+    font-style: italic;
+    }
+
+h3 {color:green;
+    font-size: 25px;}
+
+
+    .title{
+        color: blue;
+        font-size: 25px;
+    }
+
+div {
+    padding-top: 40px;
+    padding-right:30px;
+    padding-bottom:40px;
+    padding-left: 80px;
+}
+
+
+.flex-container {
+    display:flex;
+    flex-direction: column;
+    background-color:pink; 
+
+}
+
+
+.classone >div {
+    background-color: blueviolet;
+    border: 20px;
+    font-size: 10px;
+}
