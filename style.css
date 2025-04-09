@@ -46,7 +46,7 @@ div {
 }
 
 
-.classone >div {
+.classone > div {
     background-color: blueviolet;
     border: 20px;
     font-size: 10px;
